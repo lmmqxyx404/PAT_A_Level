@@ -3,9 +3,12 @@ using namespace std;
 
 int main()
 {
+#ifndef ONLINE_JUDGE
   freopen("Text.txt", "r", stdin);
   freopen("Text1.txt", "w", stdout);
+#endif
   //  ios::sync_with_stdio(false);
-  cout << "ehllo woel";
+
+
   return 0;
 }
