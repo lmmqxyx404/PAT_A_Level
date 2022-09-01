@@ -19,7 +19,7 @@ the function can check that if a equals to s;
 
 ## union find set
 1118 union find set problem. watch out that sometimes compressing the paths is necessary
-
+1158 unuion and set must be solved by the thought.
 ***
 
 ## different type calculator
