@@ -22,6 +22,9 @@ the function can check that if a equals to s;
 1158 unuion and set must be solved by the thought.
 ***
 
+## reference
+pay attention to use & and auto &;
+
 ## different type calculator
 character + number = <font color="#dd0000">ASCLL</font> number;
 number + character = <font color="#dd0000">ASCLL</font> number;
