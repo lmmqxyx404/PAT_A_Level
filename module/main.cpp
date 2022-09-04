@@ -1,3 +1,4 @@
+// 1:14
 #include "bits/stdc++.h"
 using namespace std;
 
@@ -8,6 +9,6 @@ int main()
   freopen("Text1.txt", "w", stdout);
 #endif
   //  ios::sync_with_stdio(false);
-
+  
   return 0;
 }
